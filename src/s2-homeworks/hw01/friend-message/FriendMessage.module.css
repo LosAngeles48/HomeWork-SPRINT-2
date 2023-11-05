@@ -7,6 +7,9 @@
 }
 
 .friendImageAndText img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
 
 }
 
@@ -27,5 +30,9 @@
 }
 
 .friendTime {
+    flex: 0 0 auto;
+    margin-top: 5px;
+    font: 600 10px Montserrat;
+    color: rgba(0, 0, 0, 1);
 
 }
